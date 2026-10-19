@@ -8,4 +8,8 @@ and the project uses [Semantic Versioning](https://semver.org/).
 
 ### Added
 
-- Initial project structure from `repo-template`.
+- Five-phase delivery method: understand, analyse, design, implement, measure.
+- Templates: discovery interview, proposal, handover runbook.
+- Checklists: go-live, AI agent, data protection and security.
+- ADR 0002: rules before AI.
+- Markdown lint and internal link check in CI.

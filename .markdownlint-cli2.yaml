@@ -1,0 +1,7 @@
+config:
+  default: true
+  MD013: false # long lines are fine in prose and tables
+  MD033: false # allow inline HTML
+  MD041: false # templates may start with a placeholder heading
+ignores:
+  - CHANGELOG.md
